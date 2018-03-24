@@ -8,3 +8,17 @@
 body{
     background-color:seagreen;
 }
+
+.heading{
+color: antiquewhite;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial Black;
+}
+
+.standard{
+    text-align: justify;
+    font-family: Times New Roman;
+    font-size: 16px;
+    color: black;
+}
